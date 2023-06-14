@@ -50,7 +50,7 @@ imbalanced-learn==0.10.0
 imblearn==0.0
 imutils==0.5.4
 ipykernel==6.16.0
-ipython==8.6.0
+ipython==7.34.0
 itsdangerous==2.1.2
 jedi==0.18.2
 Jinja2==3.1.2
