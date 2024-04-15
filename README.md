@@ -19,4 +19,22 @@ The goal of this project is to develop a predictive model that can accurately es
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flight-fare-prediction.git
+   git clone https://github.com/rushikeshya/Flight_Fare_Predictor.git
+
+2. Install the required dependencies:
+   
+   pip install -r requirements.txt
+   
+3. Run the Flask application:
+    python app.py
+
+4. Open your web browser and navigate to http://localhost:5000 to access the application.
+
+
+
+
+
+
+
+
+
