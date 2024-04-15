@@ -1,6 +1,8 @@
 # Flight Fare Prediction
 
 This is a project for predicting flight fares using machine learning techniques. It utilizes a Flask web application to provide a user-friendly interface for users to input their travel details and get predictions on the flight fares.
+![Flight Fare Prediction Interface](![image](https://github.com/rushikeshya/Flight_Fare_Predictor/assets/118998917/488e9e7a-cf99-47e2-95cb-971c9bca0440)
+)
 
 ## Overview
 
