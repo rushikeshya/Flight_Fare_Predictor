@@ -23,12 +23,13 @@ The goal of this project is to develop a predictive model that can accurately es
 
 2. Install the required dependencies:
    
+   ```bash
    pip install -r requirements.txt
    
-3. Run the Flask application:
+4. Run the Flask application:
     python app.py
 
-4. Open your web browser and navigate to http://localhost:5000 to access the application.
+5. Open your web browser and navigate to http://localhost:5000 to access the application.
 
 
 
