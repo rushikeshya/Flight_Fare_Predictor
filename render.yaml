@@ -1,0 +1,11 @@
+# Exported from Render on 2024-05-19T08:19:13Z
+services:
+- type: web
+  name: Flight_Fare_Predictor
+  runtime: python
+  repo: https://github.com/rushikeshya/Flight_Fare_Predictor
+  plan: free
+  region: oregon
+  buildCommand: pip install -r requirements.txt
+  startCommand: gunicorn app.wsgi
+version: "1"
